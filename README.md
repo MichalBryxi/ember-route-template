@@ -1,5 +1,11 @@
 # ember-route-template
 
+## Note
+
+**If you're using `ember-source 6.3+` you don't need this addon as EmberJS has [native support for route components](https://guides.emberjs.com/v6.7.0/components/).**
+
+---
+
 [eti]: https://github.com/ember-template-imports/ember-template-imports
 [polaris]: https://blog.emberjs.com/ember-5-0-released/#toc_the-journey-towards-ember-polaris
 [resources]: https://github.com/NullVoxPopuli/ember-resources/blob/main/docs/docs/README.md
